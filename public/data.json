@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Ratchet & Clank",
+        "img": "https://www.stuff.tv/wp-content/uploads/sites/2/2021/06/rc_riftapart_who_ps5-scaled_1.jpg?resize=1080,810",
+        "price": 69
+    },
+    {
+        "id": 2,
+        "name": "The Last of Us Part II",
+        "img": "https://www.stuff.tv/wp-content/uploads/sites/2/2021/08/lastofusmain.png?resize=1080,810",
+        "price": 49.99
+    },
+    {
+        "id": 3,
+        "name": "Forza Horizon 5",
+        "img": "https://www.stuff.tv/wp-content/uploads/sites/2/2021/11/unnamed-14.jpg?resize=1080,608",
+        "price": 69
+    },
+    {
+        "id": 4,
+        "name": "GTA 5",
+        "img": "https://plusuniversal.weebly.com/uploads/1/2/5/1/125133834/496202260.jpg",
+        "price": 49
+    },
+    {
+        "id": 5,
+        "name": "PUBG",
+        "img": "https://img.idxchannel.com/media/700/images/idx/2021/03/09/pubg-mobile.jpg",
+        "price": 32
+    },
+    {
+        "id": 6,
+        "name": "God Of War",
+        "img": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/ax0V5TYMax06mLzmkWeQMiwH.jpg?w=440",
+        "price": 120
+    },
+    {
+        "id": 7,
+        "name": "Tomb Raider",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-lB6mlOyJQMHwFUbpW2dDEe8ZomLoW5v2WBckPTs35zQpRiWzWc9J1ilGyJ4beauT90&usqp=CAU",
+        "price": 72
+    },
+    {
+        "id": 8,
+        "name": "Uncharted 4",
+        "img": "https://assets2.ignimgs.com/2015/06/03/uncharted-4-button-v2jpg-5a448e.jpg",
+        "price": 19
+    },
+    {
+        "id": 9,
+        "name": "Call Of Duty",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Xrr1NeeCxJ7ocGNqzcGc_vCSlkolGwPiH_frAA_eduX9u_BJHoI6VGkoOyBOa4JC2s8",
+        "price": 87
+    },
+    {
+        "id": 10,
+        "name": "Sniper Elite 4",
+        "img": "https://upload.wikimedia.org/wikipedia/en/9/90/Sniper_Elite_4_cover_art.jpg",
+        "price": 43
+    },
+    {
+        "id": 11,
+        "name": "Bangla vice city",
+        "img": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/12/22/new_project_2.jpg?itok=Mqxr_sR_&timestamp=1608614940",
+        "price": 500
+    },
+    {
+        "id": 12,
+        "name": "Ludo",
+        "img": "https://ludoking.com/images/left.png",
+        "price": 1
+    }
+]
