@@ -5,7 +5,8 @@ import './Shop.css';
 
 const Shop = () => {
     const [products, setProducts] = useState([]);
-    const [cart, setCart] = useState([])
+    const [cart, setCart] = useState([]);
+    const [y, setY] = useState([]);
 
     useEffect(() => {
         fetch('products.json')
@@ -20,6 +21,16 @@ const Shop = () => {
         setCart(newCart);
     }
 
+    const reset = () => {
+        setCart([]);
+    }
+    const ChooseOne = () => {
+        if (!cart.length) {
+            return
+        }
+        const x = Math.floor(Math.radom() * cart.length)
+        setY(cart[x])
+    }
 
     return (
         <div className='shop-container'>
@@ -43,10 +54,11 @@ const Shop = () => {
                 }
 
                 <div className="order-btn">
-                    <button className='cart-btn'><p >Choose 1 For Me
+                    <button onCanPlay={ChooseOne} className='cart-btn'><p >Choose 1 For Me
                     </p></button> <br />
 
-                    <button className='cart-btn-to'> <p >Choose Again</p></button>
+                    <button onClick={reset} className='cart-btn-to'> <p >Choose Again</p></button>
+                    <p>{y.singleGames}</p>
                 </div>
             </div>
         </div>
