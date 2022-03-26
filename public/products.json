@@ -2,19 +2,19 @@
     {
         "id": 1,
         "name": "Ratchet & Clank",
-        "img": "https://www.stuff.tv/wp-content/uploads/sites/2/2021/06/rc_riftapart_who_ps5-scaled_1.jpg?resize=1080,810",
+        "img": "https://sm.ign.com/ign_ap/news/i/insomniac-/insomniac-ratchet-clank-shed-the-conventional-wisdom-that-ga_h22m.jpg",
         "price": 69
     },
     {
         "id": 2,
         "name": "The Last of Us Part II",
-        "img": "https://www.stuff.tv/wp-content/uploads/sites/2/2021/08/lastofusmain.png?resize=1080,810",
+        "img": "https://wallpaperaccess.com/full/1267287.jpg",
         "price": 49.99
     },
     {
         "id": 3,
         "name": "Forza Horizon 5",
-        "img": "https://www.stuff.tv/wp-content/uploads/sites/2/2021/11/unnamed-14.jpg?resize=1080,608",
+        "img": "https://upload.wikimedia.org/wikipedia/en/8/86/Forza_Horizon_5_cover_art.jpg",
         "price": 69
     },
     {
