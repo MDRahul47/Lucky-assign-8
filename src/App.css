@@ -2,6 +2,9 @@
   text-align: center;
 } */
 
+.qustion{
+  padding: 10px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
