@@ -3,19 +3,16 @@ import './Cart.css';
 
 
 
-const Cart = () => {
-
+const Cart = ({ singleGames }) => {
+    console.log(singleGames);
 
     return (
         <div className='cart'>
-            <h2 className='select'>Select Game</h2>
+
             <div >
 
+                <p>{singleGames}</p>
 
-                <button className='cart-btn'><p >Choose 1 For Me
-                </p></button> <br />
-
-                <button className='cart-btn-to'> <p >Choose Again</p></button>
             </div>
         </div >
     );
