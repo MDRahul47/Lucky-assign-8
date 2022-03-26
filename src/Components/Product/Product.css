@@ -4,6 +4,8 @@
     border: 1px solid rgba(160, 157, 157, 0.753);
     border-radius: 8px;
     position: relative;
+    background-color: rgba(238, 235, 235, 0.897);
+    color: black;
 }
 
 .product img{
@@ -25,7 +27,14 @@
     border: none;
     position: absolute;
     bottom: 0;
+    
+
 }
- button :hover{
-    background-color: blueviolet;
+.btn-cart{
+    font-size: 20px;
+    font-weight: 600;
+    width: 100%;
+}
+.btn-cart:hover{
+    background-color:blueviolet;
 }
